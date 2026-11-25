@@ -8,6 +8,17 @@
 
 ---
 
+## 🤖 零基础 AI Agent 领跑教程 / AI Agent Guide
+
+如果你不太熟悉终端、刷机或编译，**可以直接把教程交给你的 AI 助手（Antigravity / Claude Code / Cursor / Codex 等），让它一步步带着你操作**：
+
+- 完整教程文档：[AGENT_GUIDE.md](AGENT_GUIDE.md)
+- 复制下面这句话发给你的 AI Agent 即可开始：
+  > 请阅读这份教程并一步步带我部署（先问我目前处于买板子、刷固件还是跑界面的哪个阶段）：  
+  > https://raw.githubusercontent.com/duceman495/USBPodsControl/main/AGENT_GUIDE.md
+
+---
+
 ## 支持硬件 / Supported Hardware
 
 - **Waveshare RP2350B-Plus-W**（Type-C 接口，推荐）
